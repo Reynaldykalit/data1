@@ -4,31 +4,43 @@
   [
     {
       "id": 1,
+      "width":5000,
+      "height":3333,
       "url": "https://tinyurl.com/3c7bxbb3",
       "deskripsi": "bg 1"
     },
     {
       "id": 2,
+      "width":5000,
+      "height":3333,
       "url": "https://e0.pxfuel.com/wallpapers/376/177/ desktop-wallpaper-anime-city-landscape-pemandangan-kota-pemandangan-blue-anime-city.jpg",
       "deskripsi": "bg 2"
     },
     {
       "id": 3,
+      "width":5000,
+      "height":3333,
       "url": "https://cdn.pixabay.com/photo/2018/02/02/17/29/nature-3125912_1280.jpg",
       "deskripsi": "bg 3"
     },
     {
       "id": 4,
+      "width":5000,
+      "height":3333,
       "url": "https://id.Format gambar jpg=vfe",
       "deskripsi": "bg 4"
     },
     {
       "id": 5,
+      "width":5000,
+      "height":3333,
       "url": "https://wallpapercave.com/wp/wp6577116.jpg",
       "deskripsi": "bg 5"
     },
     {
       "id": 6,
+      "width":5000,
+      "height":3333,
       "url": "https://www.freepik.com/free-photos-vectors/landscape",
       "deskripsi": "bg 6"
     }
