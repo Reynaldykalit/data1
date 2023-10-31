@@ -1,33 +1,36 @@
-[
-  {
-    "id": 1,
-    "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fpng.pngtree.com%2Fthumb_back%2Ffh260%2Fbackground%2F20211110%2Fpngtree-background-ulang-tahun-aesthetic-image_915536.png&tbnid=-uT1c1vbk5HG3M&vet=12ahUKEwie_8jDvaCCAxXCT2wGHb2DA4MQMygBegQIARBM..i&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffree-backgrounds-photos%2Faesthetic&docid=ZEVyqNLDl8JS7M&w=719&h=404&q=gambar%20background%20estetik%20landscape&hl=id&ved=2ahUKEwie_8jDvaCCAxXCT2wGHb2DA4MQMygBegQIARBM",
-    "description": "bg 1"
-  },
-  {
-    "id": 2,
-    "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fe0.pxfuel.com%2Fwallpapers%2F376%2F177%2Fdesktop-wallpaper-anime-city-landscape-pemandangan-kota-pemandangan-blue-anime-city.jpg&tbnid=D4yV5mRieS-GJM&vet=12ahUKEwie_8jDvaCCAxXCT2wGHb2DA4MQMygMegQIARBl..i&imgrefurl=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fdesktop-wallpaper-xbulr&docid=F7axCX2Px8gd-M&w=850&h=478&q=gambar%20background%20estetik%20landscape&hl=id&ved=2ahUKEwie_8jDvaCCAxXCT2wGHb2DA4MQMygMegQIARBl",
-    "description": "bg 2"
-  },
-  {
-    "id": 3,
-    "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2018%2F02%2F02%2F17%2F29%2Fnature-3125912_1280.jpg&tbnid=qkOIIbDHCmWZwM&vet=12ahUKEwie_8jDvaCCAxXCT2wGHb2DA4MQMygVegQIARB4..i&imgrefurl=https%3A%2F%2Fpixabay.com%2Fid%2Fimages%2Fsearch%2Ffajar%2F&docid=iSDFKYCzRbOICM&w=1280&h=720&q=gambar%20background%20estetik%20landscape&hl=id&ved=2ahUKEwie_8jDvaCCAxXCT2wGHb2DA4MQMygVegQIARB4",
-    "description": "bg 3"
-  },
-  {
-    "id": 4,
-    "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.lovepik.com%2Fimage-400056613%2Flandscape-painting.html&psig=AOvVaw3MugV-NJM0DBPtoR2ALJXJ&ust=1698848381182000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiYzsO9oIIDFQAAAAAdAAAAABAK",
-    "description": "bg 4"
-  },
-  {
-    "id": 5,
-    "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp6577116.jpg&tbnid=PT_lI4KrVyMMlM&vet=12ahUKEwie_8jDvaCCAxXCT2wGHb2DA4MQMygmegUIARCmAQ..i&imgrefurl=https%3A%2F%2Fwallpapercave.com%2Fpink-aesthetic-landscape-wallpapers&docid=sI-KIR5jRO1hIM&w=3840&h=2160&q=gambar%20background%20estetik%20landscape&hl=id&ved=2ahUKEwie_8jDvaCCAxXCT2wGHb2DA4MQMygmegUIARCmAQ",
-    "description": "bg 5"
-  },
-  {
-    "id": 6,
-    "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Flandscape&psig=AOvVaw3MugV-NJM0DBPtoR2ALJXJ&ust=1698848381182000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiYzsO9oIIDFQAAAAAdAAAAABAX",
-    "description": "bg 6"
-  }
-]
+{
+  "data" : 
 
+  [
+    {
+      "id": 1,
+      "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fpng.pngtree.com%2Fthumb_back%2Ffh260%2Fbackground%2F20211110%2Fpngtree-background-ulang-tahun-aesthetic-image_915536.png&tbnid=-uT1c1vbk5HG3M&vet=12ahUKEwie_8jDvaCCAxXCT2wGHb2DA4MQMygBegQIARBM..i&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffree-backgrounds-photos%2Faesthetic&docid=ZEVyqNLDl8JS7M&w=719&h=404&q=gambar%20latar%20belakang%20estetik%20lanskap&hl=id&ved=2ahUKEwie_8jDvaCCAxXCT2wGHb2DA4MQMygBegQIARBM",
+      "deskripsi": "bg 1"
+    },
+    {
+      "id": 2,
+      "url": "https://e0.pxfuel.com/wallpapers/376/177/ desktop-wallpaper-anime-city-landscape-pemandangan-kota-pemandangan-blue-anime-city.jpg",
+      "deskripsi": "bg 2"
+    },
+    {
+      "id": 3,
+      "url": "https://cdn.pixabay.com/photo/2018/02/02/17/29/nature-3125912_1280.jpg",
+      "deskripsi": "bg 3"
+    },
+    {
+      "id": 4,
+      "url": "https://id.Format gambar jpg=vfe",
+      "deskripsi": "bg 4"
+    },
+    {
+      "id": 5,
+      "url": "https://wallpapercave.com/wp/wp6577116.jpg",
+      "deskripsi": "bg 5"
+    },
+    {
+      "id": 6,
+      "url": "https://www.freepik.com/free-photos-vectors/landscape",
+      "deskripsi": "bg 6"
+    }
+  ]
+}
